@@ -78,7 +78,7 @@ global.decor = {
 
 // Response
 global.mess = {
-  ingroup: 'C'EST PAS POSSIBLE ICI ESSAIE AILLEURS.',
+  ingroup: 'pas ici stp.',
   admin: 'T'ES PAS ADMIN MON REUF .',
   owner: 'SI TU ME SUCE TU DEVIENT OWNER.',
   premium: 'SI TU ME DONNE UN GROUPE TU DEVIENT USER PREM.',
